@@ -12,4 +12,9 @@ linear regression**.
 
 ![image](https://github.com/skaddy0310/Machine-Learning-Scratch/assets/26485697/2fec2243-2af5-419b-af45-012547fcfbb5)
 
-The above graph represents the linear relationship between the dependent(Y) and independent(x) variables 
+The above graph represents the linear relationship between the dependent(Y) and independent(x) variables,and the blue line is said to be the best-fit line.
+
+
+## Calculation
+
+## Y<sub>i</sub> = W<sub>0</sub> + W<sub>1</sub> X<sub>i</sub>
